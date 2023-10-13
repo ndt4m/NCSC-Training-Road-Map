@@ -1,0 +1,3 @@
+https://tirkarp.medium.com/understanding-x86-assembly-5d7d637efb5
+http://courses.ics.hawaii.edu/ReviewICS312/modules/
+http://www.x86asm.net/articles/working-with-big-numbers-using-x86-instructions/index.html
